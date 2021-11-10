@@ -1,0 +1,5 @@
+﻿# ArtificalNarrator
+Artifical Narrator Plugin for Microsoft PowerPoint
+
+PowerPointのPluginとして、ノートの内容を音声データ化し、当該ページに自動再生として貼り付けます。
+適切なノートがあれば、あっという間にナレーション付きのプレゼンテーションが作成可能です。
