@@ -1,0 +1,13 @@
+C:\Users\ikuta\source\repos\artificial narrator\artificial narrator\bin\Debug\artificial narrator.dll
+C:\Users\ikuta\source\repos\artificial narrator\artificial narrator\bin\Debug\artificial narrator.pdb
+C:\Users\ikuta\source\repos\artificial narrator\artificial narrator\bin\Debug\artificial narrator.dll.manifest
+C:\Users\ikuta\source\repos\artificial narrator\artificial narrator\bin\Debug\artificial narrator.vsto
+C:\Users\ikuta\source\repos\artificial narrator\artificial narrator\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\ikuta\source\repos\artificial narrator\artificial narrator\obj\Debug\artificial narrator.csprojAssemblyReference.cache
+C:\Users\ikuta\source\repos\artificial narrator\artificial narrator\obj\Debug\artificial_narrator.Properties.Resources.resources
+C:\Users\ikuta\source\repos\artificial narrator\artificial narrator\obj\Debug\artificial_narrator.Ribbon.resources
+C:\Users\ikuta\source\repos\artificial narrator\artificial narrator\obj\Debug\artificial narrator.csproj.GenerateResource.cache
+C:\Users\ikuta\source\repos\artificial narrator\artificial narrator\obj\Debug\artificial narrator.csproj.CoreCompileInputs.cache
+C:\Users\ikuta\source\repos\artificial narrator\artificial narrator\obj\Debug\artificial narrator.csproj.CopyComplete
+C:\Users\ikuta\source\repos\artificial narrator\artificial narrator\obj\Debug\artificial narrator.dll
+C:\Users\ikuta\source\repos\artificial narrator\artificial narrator\obj\Debug\artificial narrator.pdb
